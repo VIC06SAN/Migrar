@@ -1,0 +1,7 @@
+.mg{
+    margin:auto 10px auto 6px;
+}
+.click:active{
+    position: relative;
+    top: 10px;
+}

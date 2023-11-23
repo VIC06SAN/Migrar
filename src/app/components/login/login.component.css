@@ -1,5 +1,5 @@
 .conteiner{
-    background-color: #1f9fd1;
+    background-color: #1a48ac;
     height: 100%;
 }
 .components{
@@ -13,4 +13,8 @@
     max-width: 520px;
     width: 320px;
     text-align: center;
+}
+.click:active{
+    position: relative;
+    top: 10px;
 }

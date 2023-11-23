@@ -1,6 +1,9 @@
 import { Component } from '@angular/core';
 import { CommonModule } from '@angular/common';
 
+import { createPopper } from '@popperjs/core';
+
+
 @Component({
   selector: 'app-navbar',
   standalone: true,
